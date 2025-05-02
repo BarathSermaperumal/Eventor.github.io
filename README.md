@@ -75,47 +75,48 @@
 ### Screenshots
 **Login**
 
-
+![image](https://github.com/user-attachments/assets/c210f9c6-830a-4e4a-8abe-b47cfa0555ea)
 
 ### USER
 
 **User Home**
 
-
-
+![image](https://github.com/user-attachments/assets/7eb8517e-8d92-4abb-b1ec-b5e34496412d)
 
 **Event Details**
 
-
-
+![image](https://github.com/user-attachments/assets/c2d32ff4-3929-426b-9003-7f1a4c19f703)
 
 **Seating Arrangment**
 
-
-
+![image](https://github.com/user-attachments/assets/60623543-1efe-44af-b7fe-9e21d9adcc86)
 
 **Order Confirmation**
 
+![image](https://github.com/user-attachments/assets/56de8421-f29c-4b26-82f9-937b839c3cca)
 
 **Orders**
 
-
+![image](https://github.com/user-attachments/assets/5067f5bd-1aa7-47e6-8b59-cb75de378315)
 
 **User Profile**
+
+![image](https://github.com/user-attachments/assets/8694adb8-1929-49b1-bb7e-f01f6b418d97)
 
 
 ### ADMIN
 
 **Admin Report**
 
-
+![image](https://github.com/user-attachments/assets/827d0fb4-29e5-46d0-bdc0-08833defe2ab)
 
 **List of Events**
 
-
+![image](https://github.com/user-attachments/assets/5749d061-bb08-455b-b473-d69bf46fbc26)
 
 ### MYSQL SCHEMA
 
+![image](https://github.com/user-attachments/assets/f03e81a3-7edc-48db-91e5-c0afbe70400d)
 
 
 ### **Demo Video URL**
