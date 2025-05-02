@@ -119,4 +119,4 @@
 
 
 ### **Demo Video URL**
-    https://drive.google.com/file/d/1kqmPgRxiysSLPs8kPsO8DV9Qiw66j8tW/view?usp=sharing
+    https://drive.google.com/file/d/1gX6QW5uAlsdxxz2nwRbY60nh2mHscNzG/view?usp=drive_link
